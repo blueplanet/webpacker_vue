@@ -1,3 +1,12 @@
+GIT
+  remote: https://github.com/rails/webpacker.git
+  revision: 023e5dbda8fd8bbe6e6f24788b0b45a3e72080ff
+  specs:
+    webpacker (0.2)
+      activesupport (>= 5.0)
+      multi_json (~> 1.2)
+      railties (>= 5.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -169,6 +178,7 @@ DEPENDENCIES
   tzinfo-data
   uglifier (>= 1.3.0)
   web-console (>= 3.3.0)
+  webpacker!
 
 BUNDLED WITH
    1.13.6
